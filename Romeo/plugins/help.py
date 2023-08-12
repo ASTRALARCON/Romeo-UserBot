@@ -41,6 +41,7 @@ ________________________________
 `.replyraid` - .replyraid (username or reply_message)
 `.lraid` - .lraid (count) (username or reply_message)
 `.dmlraid` - .dmlraid (count) (username or reply_message)
+`.praid` - .praid (count) - to start porn raid 
 
            SPAM
 `.spam` - .spam (count) (message)
